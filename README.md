@@ -41,6 +41,22 @@ Para as pessoas LGBTQIAP+, este projeto é uma oportunidade de se verem refletid
 
 Porque o orgulho, a música e a nossa identidade merecem ser celebrados – agora e sempre! 🌟💖
 
-```
+## 👨‍💻 Expert
 
+<p>
+    <p>&nbsp&nbsp&nbspElvira Miranda<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/elviraafmiranda">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="www.linkedin.com/in/elviraafmiranda">
+        LinkedIn
+    </a>
+    &nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
 
